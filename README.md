@@ -1,5 +1,5 @@
 # Support Chat
- A support chat app. (Assignmet of Branch International)
+ A support chat app. (Assignment of Branch International)
  This project has been created using the MERN stack.
  
  The public folder contains the frontend code whereas the server folder contains the backend code. 
